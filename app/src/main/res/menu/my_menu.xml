@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Other existing menu items -->
+
+    <item
+        android:id="@+id/action_increase_text_size"
+        android:icon="@drawable/add_ic2"
+        android:title="Increase Text Size"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_decrease_text_size"
+        android:icon="@drawable/remove_ic"
+        android:title="Decrease Text Size"
+        app:showAsAction="always" />
+</menu>

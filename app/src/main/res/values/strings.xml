@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lyrics</string>
+    <string name="home">Home</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="exit">Exit</string>
+</resources>
